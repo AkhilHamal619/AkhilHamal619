@@ -6,7 +6,7 @@ I am learning Java and Web Development and aiming to become a software developer
 
 ---
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,c,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,c,git,github,vscode"
 ## 💻 Programming Languages
 - Java
 - C
@@ -15,6 +15,7 @@ I am learning Java and Web Development and aiming to become a software developer
 - CSS
 - JavaScript
 - SQL
+/>
 
 ---
 
