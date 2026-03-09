@@ -6,8 +6,8 @@ I am learning Java and Web Development and aiming to become a software developer
 
 ---
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,c,git,github,vscode"
 ## 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,c,git,github,vscode" />
 - Java
 - C
 - Python
@@ -15,7 +15,14 @@ I am learning Java and Web Development and aiming to become a software developer
 - CSS
 - JavaScript
 - SQL
-/>
+- ## 📊 GitHub Stats
+
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkhilHamal619&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilHamal619&layout=compact)
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AkhilHamal619&theme=tokyonight)
+![](https://komarev.com/ghpvc/?username=AkhilHamal619)
 
 ---
 
