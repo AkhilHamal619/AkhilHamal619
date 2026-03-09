@@ -54,6 +54,7 @@ Java • C • Python • HTML • CSS • JavaScript • SQL
 📧 Email: akhilhamal2005@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/akhil-hamal-62a6983a8
 
+---
 
 ## 🎯 Career Objective
 
