@@ -33,5 +33,7 @@ I am learning Java and Web Development and aiming to become a software developer
 ---
 
 ## 📫 Connect With Me
-- Email: yourmail@gmail.com
-- LinkedIn: your-link
+- Email: akhilhamal2005@gmail.com
+- LinkedIn: www.linkedin.com/in/
+akhil-hamal-62a6983a8
+
