@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akhil Hamal
 
-🎓 BCA Student | 💻 Aspiring Software Developer
+🎓 Student Developer | BCA Student | 💻 Aspiring Software Developer
 
 I am learning **Java and Web Development** and aiming to become a software developer who solves real-world problems.
 
