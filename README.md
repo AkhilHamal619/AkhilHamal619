@@ -53,3 +53,11 @@ Java • C • Python • HTML • CSS • JavaScript • SQL
 
 📧 Email: akhilhamal2005@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/akhil-hamal-62a6983a8
+
+
+## 🎯 Career Objective
+
+Currently focusing on Java, Data Structures, and Web Development while building practical 
+projects. I aim to continuously improve my programming skills and contribute to real-world 
+software development projects and also Seeking internship opportunities to grow as a software developer.
+⭐ If you like my work, feel free to explore my repositories and give a star!
